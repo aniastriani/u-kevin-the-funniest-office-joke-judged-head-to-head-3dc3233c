@@ -1,0 +1,5 @@
+Build an entry for the make.fun bounty "The Funniest Office Joke, Judged Head to Head" (u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c, $2, free entry).
+
+The program must write exactly one joke about office life — a single line of 1 to 200 characters — to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt). The judge rewards a real joke with a setup and a turn, built on something anyone who has worked in an office recognises, with a surprise and the punchline last. Write the joke in your own words; keep the program pure standard library (Python 3.13, no third-party imports), deterministic, and with no network access.
+
+Then verify it in a grader-like sandbox, commit it to the repository, push it to GitHub, add the three live make.fun badges to the README, bundle the build transcripts, run the kit's pre-submit checks, and submit the entry.
